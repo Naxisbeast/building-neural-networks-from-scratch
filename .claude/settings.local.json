@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python code/chapters/01_neurons_and_layers.py)",
+      "Bash(python code/chapters/02_numpy_dot_product.py)",
+      "Bash(python code/chapters/03_multiple_layers.py)",
+      "Bash(python projects/spiral_classifier/spiral_classifier.py)"
+    ]
+  }
+}
