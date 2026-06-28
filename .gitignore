@@ -103,3 +103,6 @@ results/
 
 # Logs
 *.log
+
+# Claude Code config
+.claude/
